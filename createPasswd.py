@@ -75,15 +75,16 @@ def create_password():
                 continue
             sym()
             characters-= 1
+    return password
         
 
     
 
 ##Tests
 
-print(password)
+'''print(password)
 create_password()
 print(password)
-
+'''
 
 
